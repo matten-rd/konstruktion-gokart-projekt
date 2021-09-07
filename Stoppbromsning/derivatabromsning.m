@@ -31,5 +31,6 @@ st      = v;                                        % Hastighet [m/s^2]
 % Sammanställning av vektor med derivator att returnera
 yt(1,:)  = vt;
 yt(2,:)  = st;
+end
 
 %% EOF
